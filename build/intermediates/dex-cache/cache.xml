@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\PROgrammin\Android\NotifierInterface\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\PROgrammin\Android\NotifierInterface\app\build\intermediates\pre-dexed\debug\classes-898d69abeffd2a4b52b8c6c1b9083d70f4f7589e.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\PROgrammin\Android\NotifierInterface\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d2173d36e782fa1d3f28e5e6281942ff95c70054.jar" />
+    </item>
+    <item
+        jar="F:\PROgrammin\Android\NotifierInterface\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\PROgrammin\Android\NotifierInterface\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c71a46f41a8393fbeed9d71f01579b1d24dab5c5.jar" />
+    </item>
+    <item
+        jar="F:\PROgrammin\Android\NotifierInterface\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\PROgrammin\Android\NotifierInterface\app\build\intermediates\pre-dexed\debug\classes-1986199e939aaf66ef3a797dc55009cf54798cf6.jar" />
+    </item>
+
+</items>
